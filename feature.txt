@@ -1,3 +1,4 @@
 Here's my upcoming features on this project :
 
 1. Cook Indomie
+2. Watch movie on netflix
